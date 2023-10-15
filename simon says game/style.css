@@ -1,0 +1,43 @@
+*{
+    text-align: center;
+    align-content: center;
+}
+div{
+
+    height: 100px;
+    width: 100px;
+    
+}
+.tiles{
+ width: 100%;;
+ height: auto ;
+ display: flex;
+ justify-content: center;
+ 
+}
+.tiles div{
+    margin: 15px;
+}
+.red{
+    background-color: red;
+    border: 5px solid black;
+    border-radius: 10px;
+   
+}
+.green{
+    background-color: aquamarine;
+    border: 5px solid black;
+    border-radius: 10px;
+}
+.orange{
+    background-color: orange;
+    border: 5px solid black;
+    border-radius: 10px;
+}
+.blue{
+    background-color: blue;
+    border: 5px solid black;
+    border-radius: 10px;
+}
+.flash {
+    background-color: white; /* You can adjust the color to your preference */}

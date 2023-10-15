@@ -1,0 +1,9 @@
+div{
+    height: 200px;
+    width: 500px;
+    background-color: pink;
+}
+#hi{
+    width:50%;
+    border: 2px solid black;
+}

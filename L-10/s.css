@@ -1,0 +1,22 @@
+h2{
+    color: goldenrod;
+
+}
+span{
+    color: gold;
+}
+#pets{
+    display: flex;
+    justify-content: space-evenly;
+}
+.card{
+    border: 2px solid black;
+    border-radius: 20px;
+    height: 470px;
+    width: 450px;
+    padding: 10px;
+}
+img{
+    width: 100%;
+    border-radius: 20px;
+}

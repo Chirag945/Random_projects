@@ -1,0 +1,21 @@
+#a{
+    height: 200px;
+    width: 70px;
+    border: 2px solid black;
+}
+.b {
+    height: 50px;
+    width: 50px;
+    border: 2px solid black;
+    margin: 10px;
+    border-radius: 50%;
+}
+#c{
+    background-color: red;
+}
+#d{
+    background-color: yellow;
+}
+#e{
+    background-color: green;
+}

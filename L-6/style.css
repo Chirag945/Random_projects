@@ -1,0 +1,25 @@
+*{
+    font-family: 'Courier New';
+    background-color: aqua;
+}
+h3{
+    color: purple;
+}
+#login{
+    background-color: white;
+}
+#signup{
+    background-color: #b92b27;
+    color: white;
+}
+.upvote{
+    background-color: green;
+    color:aliceblue
+}
+p a{
+    color: purple;
+    background-color: yellow;
+}
+div[id="myID"] p{
+color: blueviolet;
+}

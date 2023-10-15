@@ -1,0 +1,33 @@
+#outer{
+    background-color: goldenrod;
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+}
+#eyeone {
+    height: 20px;
+    width: 20px;
+    background-color: black;
+    border-radius: 50%;
+    position: absolute;
+    top:40px;
+    left:40px
+}
+#eyetwo{
+    height: 20px;
+    width: 20px;
+    background-color: black;
+    border-radius: 50%;
+    position: absolute;
+    top:40px;
+    left:100px
+}
+#mouth{
+    background-color: salmon;
+    height: 20px;
+    width:80px;
+    border-radius: 0 0 10px 10px;
+    position: absolute;
+    top:100px;
+    left:40px;
+}

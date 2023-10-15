@@ -1,0 +1,37 @@
+#container{
+    border: 2px solid blue;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-content: space-evenly;
+   
+    height: 700px;
+    width: 400px;
+}
+.inner {
+    background-color: gray;
+    border: 3px solid black;
+    height: 100px;
+    width: 100px;
+    border-radius: 10px;
+    font-size: 50px;
+    text-align: center;
+}
+
+#nav{
+    height: 50px;
+    width: 900px;
+    display: flex;
+    background-color: pink;
+    border: 2px solid lightseagreen;
+    border-radius: 10px;
+    justify-content: flex-start;
+    align-content: center;
+}
+.items{
+    height: 50px;
+    width:80px;
+    font-size: 24px;
+}
